@@ -1,0 +1,19 @@
+body {
+    font-family: poppins, sans-serif;
+}
+
+main {
+    padding-bottom: 5rem;
+}
+
+.repas-container > * {
+    flex: 1 1 12rem;
+
+    /* si on veut que les repas ne prennent pas toute la largeur */
+    /* max-width: 12rem; */
+}
+
+textarea.etapes {
+    height: 12rem;
+    min-height: calc(100% - 2.2rem);
+}
