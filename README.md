@@ -1,7 +1,5 @@
 # Projet Gestion Repas
 
-# Projet Gestion Repas
-
 ## Groupe 3
 
 ## Installation
