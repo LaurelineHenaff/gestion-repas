@@ -1,4 +1,4 @@
-# Projet Gestion Repas
+# Projet FullStack Javascript : Gestion Repas
 
 ## Groupe 3
 
