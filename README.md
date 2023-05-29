@@ -1,6 +1,6 @@
 # Projet FullStack Javascript : Gestion Repas
 
-## _Groupe 3 (Laurine, Laureline, Christophe_)
+## Groupe 3 (Laurine, Laureline, Christophe)
 
 ## Installation
 
